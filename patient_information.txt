@@ -1,3 +1,0 @@
-Name	Age	Condition	Treatment
-Bob	15	Sore Throat	Cough Drops
-Jasmine	35	Endometriosis	Hysterectomy
