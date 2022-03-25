@@ -1,0 +1,5 @@
+Name  	Age  	Condition  	Treatment  
+Michael	20	Pregnant	Plan B
+Bob	15	Sore Throat	Cough Drops
+Jasmine	35	Endometriosis	Hysterectomy
+Jessie	21	Anxiety	Lexapro
